@@ -19,7 +19,7 @@ public class Task4 {
         } else {
             System.out.println("The input string is not a palindrome.");
         }
-
+        input.close();
     }
 
 }
